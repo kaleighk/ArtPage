@@ -29,3 +29,8 @@ section {
 .pull-right {
     Float: right
 }
+
+nav > a {
+    display: block;
+
+}
