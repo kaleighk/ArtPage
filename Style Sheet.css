@@ -34,3 +34,7 @@ nav > a {
     display: block;
 
 }
+
+.align-right{
+    text-align: right;
+}
