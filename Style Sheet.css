@@ -1,0 +1,31 @@
+body {
+    background-color: #494746;
+}
+#container {
+    margin: auto;
+    width: 80rem;
+    Padding: 2rem;
+    box-sizing: border-box;
+
+}
+h1 {
+    font-family: 'Coming Soon', cursive;
+}
+
+.pull-left {
+    Float: left;
+}
+header {
+    background-color: blue;
+}
+section {
+    display: block;
+    background-color: red;
+}
+.clearfix {
+    overflow: auto;
+}
+
+.pull-right {
+    Float: right
+}
